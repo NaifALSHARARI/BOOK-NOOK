@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\wwwroot\\images\\book-placeholder.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\wwwroot\\images\\book-placeholder.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\wwwroot\\images\\library-background.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\wwwroot\\images\\library-background.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\wwwroot\\pic\\carousel4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\wwwroot\\pic\\carousel4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\models\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iimna\\Desktop\\demos11\\demos1\\BethanysPieShop\\Views\\Shared\\_LoginPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\iimna\\desktop\\finallyasp.net\\test finally5\\test finally\\librarymanagement\\librarymanagement (2)\\librarymanagement\\librarymanagement\\migrations\\20240717222627_addpdfandimagepaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3BF11F-118E-4154-975F-B76CB1EFD30F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\migrations\\20240717222627_addpdfandimagepaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:24:47.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAYwAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:42:27.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "carousel4.jpg - Bitmap [1280x488, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\wwwroot\\Pic\\carousel4.jpg",
+              "RelativeDocumentMoniker": "LibraryManagement\\wwwroot\\Pic\\carousel4.jpg",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\wwwroot\\Pic\\carousel4.jpg - Bitmap [1280x488, 24 bit, JPG]",
+              "RelativeToolTip": "LibraryManagement\\wwwroot\\Pic\\carousel4.jpg - Bitmap [1280x488, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-17T22:35:04.747Z",
+              "EditorCaption": " - Bitmap [1280x488, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:08:13.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "LibraryManagement\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwEAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:38:16.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:32:00.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "book-placeholder.jpg - Bitmap [1093x436, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\book-placeholder.jpg",
+              "RelativeDocumentMoniker": "LibraryManagement\\wwwroot\\images\\book-placeholder.jpg",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\book-placeholder.jpg - Bitmap [1093x436, 24 bit, JPG]",
+              "RelativeToolTip": "LibraryManagement\\wwwroot\\images\\book-placeholder.jpg - Bitmap [1093x436, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-24T12:51:43.042Z",
+              "EditorCaption": " - Bitmap [1093x436, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAUwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T20:43:15.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T15:32:41.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "library-background.jpg - Bitmap [1919x1080, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\library-background.jpg",
+              "RelativeDocumentMoniker": "LibraryManagement\\wwwroot\\images\\library-background.jpg",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\library-background.jpg - Bitmap [1919x1080, 24 bit, JPG]",
+              "RelativeToolTip": "LibraryManagement\\wwwroot\\images\\library-background.jpg - Bitmap [1919x1080, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-24T12:49:10.063Z",
+              "EditorCaption": " - Bitmap [1919x1080, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:46:22.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Repositories\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:41:21.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:39:48.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240717222627_AddPdfAndImagePaths.cs",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Migrations\\20240717222627_AddPdfAndImagePaths.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Migrations\\20240717222627_AddPdfAndImagePaths.cs",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Migrations\\20240717222627_AddPdfAndImagePaths.cs",
+              "RelativeToolTip": "LibraryManagement\\Migrations\\20240717222627_AddPdfAndImagePaths.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:26:28.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:30:37.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T22:01:29.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Book\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T15:37:38.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Models\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Models\\LibraryDbContext.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\LibraryDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:47:25.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeToolTip": "LibraryManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T00:18:23.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:20:06.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T14:09:19.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T21:30:33.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\demos11\\demos1\\BethanysPieShop\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\demos11\\demos1\\BethanysPieShop\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\demos11\\demos1\\BethanysPieShop\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\demos11\\demos1\\BethanysPieShop\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T01:59:09.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "LibraryManagement\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "LibraryManagement\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-16T22:53:31.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "LibraryManagement\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "LibraryManagement\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-15T23:15:31.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "LibraryManagement\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-12T21:30:33.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LibraryManagement\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\iimna\\Desktop\\finallyASP.NET\\test finally5\\test finally\\LibraryManagement\\LibraryManagement (2)\\LibraryManagement\\LibraryManagement\\appsettings.Development.json",
+              "RelativeToolTip": "LibraryManagement\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T20:38:45.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

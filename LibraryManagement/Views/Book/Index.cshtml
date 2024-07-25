@@ -1,0 +1,91 @@
+﻿@model IEnumerable<LibraryManagement.Models.Book>
+
+@{
+    ViewData["Title"] = "Books";
+}
+<div class="jumbotron jumbotron-fluid" style="background-image: url('/images/1.jpg'); background-size: cover; background-position: center; height: auto; margin-bottom: 0;">
+    <div class="container mt-1" style="margin-top: 500px;">
+        <h1 class="display-4">Books</h1>
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <img src="@(string.IsNullOrEmpty(item.ImagePath) ? "/images/book-placeholder.jpg" : item.ImagePath)" class="card-img-top" alt="@item.Title" style="height: 150px;">
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Title</h5>
+                            <p class="card-text">Author: @item.Author</p>
+                            <p class="card-text">Genre: @item.Genre</p>
+                            <p class="card-text">Rating: @(item.Rating > 0 ? item.Rating.ToString() : "Not rated yet")</p>
+                            @if (!string.IsNullOrEmpty(item.PdfPath))
+                            {
+                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#pdfModal" onclick="openPdfModal('@item.PdfPath')">Read More</button>
+                            }
+                            else if (!string.IsNullOrEmpty(item.Link))
+                            {
+                                <a href="@item.Link" class="btn btn-primary" target="_blank">Read More</a>
+                            }
+                            else
+                            {
+                                <span class="btn btn-secondary disabled">No PDF or Link</span>
+                            }
+                            <a class="btn btn-secondary" onclick="toggleRatingForm('@item.Id')">Rating</a>
+                            <a class="btn btn-warning btn-sm" href="/Book/Edit/@item.Id">Edit</a>
+                            <a class="btn btn-danger btn-sm" href="/Book/Delete/@item.Id">Delete</a>
+
+                            <div id="ratingForm-@item.Id" class="rating-form" style="display: none;">
+                                <form method="post" action="/Book/Rate">
+                                    <input type="hidden" name="BookId" value="@item.Id" />
+                                    <div class="form-group">
+                                        <label for="rating">Rate this book:</label>
+                                        <select class="form-control" id="rating" name="Rating">
+                                            <option value="1">1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
+                                            <option value="4">4</option>
+                                            <option value="5">5</option>
+                                        </select>
+                                    </div>
+                                    <button type="submit" class="btn btn-success">Submit Rating</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="pdfModal" tabindex="-1" aria-labelledby="pdfModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="pdfModalLabel">PDF Viewer</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <iframe id="pdfFrame" src="" width="100%" height="500px"></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function openPdfModal(pdfPath) {
+        document.getElementById('pdfFrame').src = pdfPath;
+        $('#pdfModal').modal('show');
+    }
+
+    function toggleRatingForm(bookId) {
+        var form = document.getElementById('ratingForm-' + bookId);
+        if (form.style.display === 'none') {
+            form.style.display = 'block';
+        } else {
+            form.style.display = 'none';
+        }
+    }
+</script>
